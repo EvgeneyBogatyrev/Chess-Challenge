@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.3.32901.215
+VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chess-Challenge", "Chess-Challenge\Chess-Challenge.csproj", "{2803E64F-15AC-430B-A5A2-69C00EA7505F}"
 EndProject

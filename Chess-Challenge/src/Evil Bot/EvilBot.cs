@@ -5,7 +5,7 @@ namespace ChessChallenge.Example
 {
     // A simple bot that can spot mate in one, and always captures the most valuable piece it can.
     // Plays randomly otherwise.
-    public class EvilBot : IChessBot
+    public class EvilBot_OG : IChessBot
     {
         // Piece values: null, pawn, knight, bishop, rook, queen, king
         int[] pieceValues = { 0, 100, 300, 300, 500, 900, 10000 };

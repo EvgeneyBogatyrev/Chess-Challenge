@@ -23,6 +23,21 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="src\Evil Bot\PositionalValue.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Update="src\Evil Bot\BetterEndgame.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Update="src\Evil Bot\FiniteBot.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Update="src\Evil Bot\TranspositionBot.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Update="src\Evil Bot\StandartBot.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
     <Compile Update="src\My Bot\MyBot.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
